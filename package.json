@@ -1,0 +1,31 @@
+{
+  "name": "football",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "olikpopik",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-if": "^2.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "source-map": "^0.7.3",
+    "stream-combiner2": "^1.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-debug": "^4.0.0",
+    "gulp-less": "^3.5.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.0",
+    "gulpify": "^0.1.1",
+    "less": "^3.5.0",
+    "stylus": "^0.54.5"
+  }
+}
